@@ -66,6 +66,7 @@ public class ReadDataone extends SimpleExtentReport {
 		test.log(Status.PASS, "Login page is gettin displayed");
 		test.pass("login is passed");
 		System.out.println("This is supriya");
+		System.out.println("This is joey and rajesh");
 		
 	}
 
